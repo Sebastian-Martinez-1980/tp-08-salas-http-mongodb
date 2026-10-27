@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "estudiante": "Victor Hernandez",
+        "email": "victorher@gmail.com",
+        "sala": "Sala Norte",
+        "fecha": "2026-09-22",
+        "turno": "Tarde",
+        "personas": 3
+    },
+    {
+        "id": 2,
+        "estudiante": "Nestor Videla",
+        "email": "nestorv@gmail.com",
+        "sala": "Sala Sur",
+        "fecha": "2026-09-24",
+        "turno": "Noche",
+        "personas": 1
+    }
+]
