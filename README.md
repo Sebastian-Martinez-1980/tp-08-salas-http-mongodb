@@ -19,13 +19,6 @@ iniciar el servidor ni al consultar el listado.
 -   **Entrega:** URL del repositorio GitHub, según la fecha indicada en
     la consigna.
 
-> **Estado de las pruebas:** el ZIP recibido no incluye credenciales
-> locales de Atlas ni evidencia de ejecución contra la base remota. Por
-> eso, los resultados esperados se documentan, pero los ID reales y las
-> cantidades observadas quedan pendientes de completar después de
-> ejecutar las pruebas con el `.env` propio. No se inventan ID ni
-> resultados de persistencia.
-
 ## 2. Origen de la copia
 
 El punto de partida es una **copia funcional e individual del TP 07**.
